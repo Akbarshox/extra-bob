@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	background-color: #ddd
+}
+.nav{
+	background-color: #fff;
+}
+.heart img{  
+	width: 75px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.nav a{
+	position: absolute;
+	font-size: 30px;
+	margin-top: 30px;
+	margin-left: 15px;
+	text-decoration: none;
+	color: #9F0303;
+	font-family: Calibri, sabs;
+	font-weight: 600
+}
