@@ -20,3 +20,19 @@ body {
 	font-family: Calibri, sabs;
 	font-weight: 600
 }
+.btn button{
+	float: right;
+	margin-top: -60px;
+	margin-right: 20px;
+	border-radius: 5px;
+	padding: 8px 25px;
+	border: none;
+	background-color: #9F0303;
+	color: #fff;
+	font-family: Calibri, sans;
+	font-size: 20px;
+	outline: none;
+}
+.btn button:hover{
+	background-color: red
+}
